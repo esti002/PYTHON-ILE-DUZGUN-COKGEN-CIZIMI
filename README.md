@@ -4,7 +4,7 @@
 
 ### KISACA PROGRAMIN ÇALIŞMA MANTIĞI
 
-Öncelikle bu kodlar eşkenar çokgen çizmek için yazılmıştır. Bizden çokgenin ilk noktasının x ve y koordinatları, çokgenin bir kenar uzunluğu, çokgenin çizilme açısı ve kaç kenarlı bir çokgen çizmek istediğimize ilişkin parametreler göndeririz. Aldığı bu verilerden öncelikle kenar uzunluğu çizilme açısı ve verilen koordinatlar kullanılarak çokgenin diğer köşelerininm koordınatları da bulunup bir dizi içerisine atanır. Ardından bu dizideki ardışık koordinatlar arasında çizilebilecek doğruların denklemi bulunur. Son olarak da piksellerin bu doğruların altında ya da üstünde kaldığı belirlenip çokgenin iç kısmında mı yoksa dış kısmında mı olduğu belirlenip iç kısımda kalanlar boyanır.
+Öncelikle bu kodlar eşkenar çokgen çizmek için yazılmıştır. Çokgenin ilk noktasının x ve y koordinatları, çokgenin bir kenar uzunluğu, çokgenin çizilme açısı ve kaç kenarlı bir çokgen çizmek istediğimize ilişkin parametreler göndeririz. Aldığı bu verilerden öncelikle kenar uzunluğu çizilme açısı ve verilen koordinatlar kullanılarak çokgenin diğer köşelerininm koordınatları da bulunup bir dizi içerisine atanır. Ardından bu dizideki ardışık koordinatlar arasında çizilebilecek doğruların denklemi bulunur. Son olarak da piksellerin bu doğruların altında ya da üstünde kaldığı belirlenip çokgenin iç kısmında mı yoksa dış kısmında mı olduğu belirlenip iç kısımda kalanlar boyanır.
 
 ### ÇALIŞMA MANTIĞI DETAYLARI
 
